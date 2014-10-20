@@ -1,0 +1,13 @@
+{
+	"bee":{"sx":126,"sy":2,"cols":1,"tilew":18,"frames":1,"tileh":15},
+	"blue-alien":{"sx":105,"sy":2,"cols":1,"tilew":19,"frames":1,"tileh":19},	
+	"bug":{"sx":163,"sy":2,"cols":1,"tilew":18,"frames":1,"tileh":12},	
+	"bullet":{"sx":163,"sy":16,"cols":1,"tilew":7,"frames":1,"tileh":7},	
+	"ghost":{"sx":44,"sy":2,"cols":1,"tilew":17,"frames":1,"tileh":21},
+	"gray-alien":{"sx":2,"sy":2,"cols":1,"tilew":21,"frames":1,"tileh":21},
+	"player":{"sx":25,"sy":2,"cols":1,"tilew":17,"frames":1,"tileh":21},
+	"power":{"sx":146,"sy":2,"cols":1,"tilew":15,"frames":1,"tileh":13},
+	"red-alien":{"sx":84,"sy":2,"cols":1,"tilew":19,"frames":1,"tileh":19},	
+	"yellow-alien":{"sx":63,"sy":2,"cols":1,"tilew":19,"frames":1,"tileh":19}
+}
+	
